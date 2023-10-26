@@ -1,6 +1,3 @@
-### Personal ###
-*
-!src/.java
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
